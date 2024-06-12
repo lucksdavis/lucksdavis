@@ -19,6 +19,9 @@ Aqui estão alguns dos projetos que desenvolvi durante meus estudos:
 
 1. **Projeto 1:** (https://github.com/lucksdavis/alurabook)
    - O **AluraBook** é um projeto desenvolvido como parte dos cursos da Alura, focado em aprimorar habilidades de desenvolvimento front-end. Este projeto simula uma plataforma de venda de livros online, proporcionando uma experiência prática na criação de interfaces web interativas e responsivas.
+  
+2. **Projeto 2:** (https://alura-fokus-blue.vercel.app/)
+   - O **Alura Fokus** é um projeto desenvolvido como parte dos cursos da Alura, é uma aplicação web que tem como principal função ajudar os usuários a manterem o foco em suas tarefas diárias, permitindo a criação e gestão de listas de tarefas de maneira simples e intuitiva.
 
 
 
@@ -32,10 +35,11 @@ Atualmente, trabalho como consultor de implantação ERP, onde desenvolvo habili
 
 ## 📫 Contato
 - **Email:** lucas.davis@yahoo.com.br
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/lucas-figueiredo-278328172/)
-- **GitHub:** [Seu GitHub](https://github.com/lucksdavis)
+- **LinkedIn:** (https://www.linkedin.com/in/lucas-figueiredo-278328172/)
+- **GitHub:** (https://github.com/lucksdavis)
 
 ---
+
 
 ⭐️ Se você gostou dos meus projetos, sinta-se à vontade para dar uma estrela nos repositórios!
 
