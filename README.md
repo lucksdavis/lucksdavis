@@ -23,6 +23,8 @@ Aqui estão alguns dos projetos que desenvolvi durante meus estudos:
 2. **Projeto 2:** (https://alura-fokus-blue.vercel.app/)
    - O **Alura Fokus** é um projeto desenvolvido como parte dos cursos da Alura, é uma aplicação web que tem como principal função ajudar os usuários a manterem o foco em suas tarefas diárias, permitindo a criação e gestão de listas de tarefas de maneira simples e intuitiva.
 
+3. **Projeto 3:** (https://lucksdavis.github.io/jogoNumeroSecretoComReconhecimentoDeVoz/)
+   - O **Jogo do Número Secreto** é um projeto desenvolvido como parte dos cursos da Alura, é um jogo interativo onde o usuário deve adivinhar um número secreto entre 1 e 1000. O diferencial deste jogo é a utilização de reconhecimento de voz para receber as tentativas do usuário.
 
 
 ## 💼 Experiência Profissional
